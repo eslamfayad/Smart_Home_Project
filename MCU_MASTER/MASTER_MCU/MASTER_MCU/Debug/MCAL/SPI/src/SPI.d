@@ -1,0 +1,18 @@
+MCAL/SPI/src/SPI.d MCAL/SPI/src/SPI.o: ../MCAL/SPI/src/SPI.c \
+ ../MCAL/SPI/inc/SPI.h ../LIB/STD_TYPES.h ../LIB/BIT_MATH.h \
+ ../MCAL/SPI/inc/SPI_PRIVATE.h ../MCAL/DIO/inc/DIO_INTERFACE.h \
+ ../MCAL/DIO/inc/DIO_PRIVATE.h ../MCAL/DIO/inc/DIO_PRIVATE.h
+
+../MCAL/SPI/inc/SPI.h:
+
+../LIB/STD_TYPES.h:
+
+../LIB/BIT_MATH.h:
+
+../MCAL/SPI/inc/SPI_PRIVATE.h:
+
+../MCAL/DIO/inc/DIO_INTERFACE.h:
+
+../MCAL/DIO/inc/DIO_PRIVATE.h:
+
+../MCAL/DIO/inc/DIO_PRIVATE.h:
