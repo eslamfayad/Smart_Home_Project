@@ -25,10 +25,10 @@ int main(void)
 	uint_8 Command= 0;
 	UART_Init(UART_BAUDRATE_9600);
 	Spi_MasterInit();
-	Led_Init();
-    LCD_Init_4bit();
-	LCD_WRITE_STRING_4bit(name);
-	_delay_ms(100);
+	//Led_Init();
+   // LCD_Init_4bit();
+	//LCD_WRITE_STRING_4bit(name);
+	//_delay_ms(100);
 	//DIO_SetPinValue(DIO_PORTC);
 	//UART_Send(x);
 	//UART_SendStr(OK[1]);
